@@ -1,0 +1,6 @@
+# Unnecessary files
+ecr-credential-job.yaml
+ecr-credential-refresh.yaml
+
+providers-credentials-config.yaml
+providers-credentials-config.yaml.template
